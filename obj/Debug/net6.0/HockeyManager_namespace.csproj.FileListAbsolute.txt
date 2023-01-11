@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\HockeyManager_namespace\bin\Debug\net6.0\HockeyManager_namespace.exe
+C:\Users\david\source\repos\HockeyManager_namespace\bin\Debug\net6.0\HockeyManager_namespace.deps.json
+C:\Users\david\source\repos\HockeyManager_namespace\bin\Debug\net6.0\HockeyManager_namespace.runtimeconfig.json
+C:\Users\david\source\repos\HockeyManager_namespace\bin\Debug\net6.0\HockeyManager_namespace.dll
+C:\Users\david\source\repos\HockeyManager_namespace\bin\Debug\net6.0\HockeyManager_namespace.pdb
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.AssemblyInfo.cs
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.dll
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\refint\HockeyManager_namespace.dll
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.pdb
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\HockeyManager_namespace.genruntimeconfig.cache
+C:\Users\david\source\repos\HockeyManager_namespace\obj\Debug\net6.0\ref\HockeyManager_namespace.dll

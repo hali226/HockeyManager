@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HockeyManager_namespace/1.0.0": {
+        "runtime": {
+          "HockeyManager_namespace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HockeyManager_namespace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
